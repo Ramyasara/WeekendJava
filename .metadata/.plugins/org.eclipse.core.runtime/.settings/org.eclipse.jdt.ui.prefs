@@ -1,0 +1,14 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.test1.login.CourseDetails"><rhs name\="org.test1.login.CourseDetails"/></lhs><lhs name\="org.test1.login.Employee"><rhs name\="org.test1.login.Employee"/><rhs name\="org.test1.login.MultiInheritance"/><rhs name\="org.test1.login.MultiInheritance2"/></lhs><lhs name\="org.test1.login.Company"><rhs name\="org.test1.login.Company"/></lhs><lhs name\="org.test2.login.Client"><rhs name\="org.test2.login.Client"/></lhs><lhs name\="org.test1.login.MultiInheritance"><rhs name\="org.test1.login.MultiInheritance"/><rhs name\="org.test1.login.MultiInheritance2"/></lhs><lhs name\="org.test1.login.MultiInheritance1"><rhs name\="org.test1.login.MultiInheritance2"/></lhs><lhs name\="org.test1.login.MultiInheritance2"><rhs name\="org.test1.login.MultiInheritance2"/></lhs><lhs name\="Hierrchichal.test.RBI"><rhs name\="Hierrchichal.test.HDFC"/><rhs name\="Hierrchichal.test.ICICI"/><rhs name\="Hierrchichal.test.SBI"/></lhs><lhs name\="Hierrchichal.test.HDFC"><rhs name\="Hierrchichal.test.HDFC"/></lhs><lhs name\="Hierrchichal.test.ICICI"><rhs name\="Hierrchichal.test.ICICI"/></lhs><lhs name\="Hierrchichal.test.SBI"><rhs name\="Hierrchichal.test.SBI"/></lhs><lhs name\="MultiLevelInherit.test.colleage2"><rhs name\="MultiLevelInherit.test.Colleage3"/></lhs><lhs name\="MultiLevelInherit.test.Colleage"><rhs name\="MultiLevelInherit.test.Colleage3"/></lhs><lhs name\="MultiLevelInherit.test.Colleage3"><rhs name\="MultiLevelInherit.test.Colleage3"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=13
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
